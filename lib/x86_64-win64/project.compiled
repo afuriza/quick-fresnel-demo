@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="D:\fpcup2\files2\fpc\bin\x86_64-win64\fpc.exe" Date="1448323562"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw3 -gl -WG -l -vewnhibq -FiD:\dev_projects\laz_lcl\quick-fresnel\lib\x86_64-win64 -FuD:\fpcup2\files2\lazarus\components\synedit\units\x86_64-win64\win32 -FuD:\devkits\fresnel-main\src\lib\x86_64-win64 -FuD:\fpcup2\files2\lazarus\lcl\units\x86_64-win64\win32 -FuD:\fpcup2\files2\lazarus\lcl\units\x86_64-win64 -FuD:\fpcup2\files2\lazarus\components\freetype\lib\x86_64-win64 -FuD:\fpcup2\files2\lazarus\components\lazutils\lib\x86_64-win64 -FuD:\devkits\besen-master\src\lib\x86_64-win64 -FuD:\fpcup2\files2\lazarus\packager\units\x86_64-win64 -FuD:\dev_projects\laz_lcl\quick-fresnel\ -FUD:\dev_projects\laz_lcl\quick-fresnel\lib\x86_64-win64\ -FED:\dev_projects\laz_lcl\quick-fresnel\ -oD:\dev_projects\laz_lcl\quick-fresnel\project.exe -dLCL -dLCLwin32 project.lpr"/>
+</CONFIG>

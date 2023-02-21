@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="project.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="maincontrol.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMain"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="MainControl"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="180"/>
+        <CursorPos X="44" Y="204"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devkits\besen-master\src\BESENBaseObject.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="26"/>
+        <CursorPos X="8" Y="40"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\fpcup2\files2\fpcsrc\rtl\objpas\fgl.pp"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="326"/>
+        <CursorPos X="11" Y="340"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devkits\fresnel-main\src\fresnel.dom.pas"/>
+        <UnitName Value="Fresnel.DOM"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="1902"/>
+        <CursorPos X="27" Y="1916"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devkits\besen-master\src\BESENConstants.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="39"/>
+        <CursorPos X="7" Y="53"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devkits\besen-master\src\BESEN.pas"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="604"/>
+        <CursorPos Y="618"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\fpcup2\files2\fpcsrc\rtl\inc\objpash.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="199"/>
+        <CursorPos X="36" Y="219"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devkits\besen-master\src\BESENGarbageCollector.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="107"/>
+        <CursorPos X="18" Y="125"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devkits\besen-master\src\BESENContext.pas"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="323"/>
+        <CursorPos Y="336"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devkits\besen-master\src\BESENParser.pas"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="128"/>
+        <CursorPos Y="142"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devkits\besen-master\src\BESENNativeObject.pas"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="92"/>
+        <CursorPos Y="106"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devkits\besen-master\src\BESENUtils.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="48"/>
+        <CursorPos X="11" Y="41"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devkits\fresnel-main\src\fresnel.controls.pas"/>
+        <UnitName Value="Fresnel.Controls"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="19"/>
+        <CursorPos X="3" Y="32"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devkits\besen-master\src\BESENErrors.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="492"/>
+        <CursorPos Y="506"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="maincontrol.pas"/>
+        <Caret Line="180" Column="54" TopLine="166"/>
+      </Position>
+      <Position>
+        <Filename Value="D:\devkits\besen-master\src\BESENContext.pas"/>
+        <Caret Line="336" TopLine="323"/>
+      </Position>
+      <Position>
+        <Filename Value="maincontrol.pas"/>
+        <Caret Line="180" Column="54" TopLine="166"/>
+      </Position>
+      <Position>
+        <Filename Value="D:\devkits\besen-master\src\BESENContext.pas"/>
+        <Caret Line="336" TopLine="323"/>
+      </Position>
+      <Position>
+        <Filename Value="D:\devkits\besen-master\src\BESENContext.pas"/>
+        <Caret Line="336" TopLine="323"/>
+      </Position>
+      <Position>
+        <Filename Value="maincontrol.pas"/>
+        <Caret Line="180" Column="54" TopLine="98"/>
+      </Position>
+      <Position>
+        <Filename Value="maincontrol.pas"/>
+        <Caret Line="179" Column="20" TopLine="166"/>
+      </Position>
+      <Position>
+        <Filename Value="maincontrol.pas"/>
+        <Caret Line="174" Column="79" TopLine="116"/>
+      </Position>
+      <Position>
+        <Filename Value="maincontrol.pas"/>
+        <Caret Line="159" TopLine="145"/>
+      </Position>
+      <Position>
+        <Filename Value="maincontrol.pas"/>
+        <Caret Line="188" Column="54" TopLine="128"/>
+      </Position>
+      <Position>
+        <Filename Value="maincontrol.pas"/>
+        <Caret Line="159" TopLine="145"/>
+      </Position>
+      <Position>
+        <Filename Value="maincontrol.pas"/>
+        <Caret Line="174" Column="79" TopLine="135"/>
+      </Position>
+      <Position>
+        <Filename Value="maincontrol.pas"/>
+        <Caret Line="175" Column="79" TopLine="171"/>
+      </Position>
+      <Position>
+        <Filename Value="maincontrol.pas"/>
+        <Caret Line="180" Column="3" TopLine="144"/>
+      </Position>
+      <Position>
+        <Filename Value="maincontrol.pas"/>
+        <Caret Line="160" TopLine="144"/>
+      </Position>
+      <Position>
+        <Filename Value="maincontrol.pas"/>
+        <Caret Line="85" TopLine="71"/>
+      </Position>
+      <Position>
+        <Filename Value="D:\devkits\besen-master\src\BESENNativeObject.pas"/>
+        <Caret Line="106" TopLine="92"/>
+      </Position>
+      <Position>
+        <Filename Value="maincontrol.pas"/>
+        <Caret Line="124" Column="43" TopLine="113"/>
+      </Position>
+      <Position>
+        <Filename Value="maincontrol.pas"/>
+        <Caret Line="131" Column="71" TopLine="118"/>
+      </Position>
+      <Position>
+        <Filename Value="maincontrol.pas"/>
+        <Caret Line="140" Column="82" TopLine="127"/>
+      </Position>
+      <Position>
+        <Filename Value="maincontrol.pas"/>
+        <Caret Line="169" Column="20" TopLine="152"/>
+      </Position>
+      <Position>
+        <Filename Value="maincontrol.pas"/>
+        <Caret Line="143" Column="16" TopLine="121"/>
+      </Position>
+      <Position>
+        <Filename Value="maincontrol.pas"/>
+        <Caret Line="142" Column="43" TopLine="127"/>
+      </Position>
+      <Position>
+        <Filename Value="maincontrol.pas"/>
+        <Caret Line="163" Column="87" TopLine="152"/>
+      </Position>
+      <Position>
+        <Filename Value="maincontrol.pas"/>
+        <Caret Line="214" Column="68" TopLine="193"/>
+      </Position>
+      <Position>
+        <Filename Value="maincontrol.pas"/>
+        <Caret Line="113" Column="53" TopLine="111"/>
+      </Position>
+      <Position>
+        <Filename Value="maincontrol.pas"/>
+        <Caret Line="22" Column="15" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="maincontrol.pas"/>
+        <Caret Line="138" Column="21" TopLine="123"/>
+      </Position>
+      <Position>
+        <Filename Value="maincontrol.pas"/>
+        <Caret Line="168" Column="37" TopLine="148"/>
+      </Position>
+      <Position>
+        <Filename Value="maincontrol.pas"/>
+        <Caret Line="112" Column="65" TopLine="101"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
